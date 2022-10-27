@@ -1,5 +1,4 @@
-﻿//Заменить первые 10 элементов заданного вещественного массива NN[33] на среднее арифметическое последних 10 элементов этого же массива 
-#include <iostream>
+﻿#include <iostream>
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
